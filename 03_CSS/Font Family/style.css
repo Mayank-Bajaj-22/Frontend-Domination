@@ -33,6 +33,8 @@ h2{
   border-radius: 15px;
   background-color: aqua;
   /* top, right, bottom, left */
+  /* top bottom -> 1st 2 value */
+  /* right left -> 2nd 2 value */
 }
 
 #border{

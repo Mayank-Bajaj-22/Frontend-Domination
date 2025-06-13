@@ -15,3 +15,20 @@ h1 {
     background: bisque;
     text-align: center;
 }
+
+/* Color Names: red, green
+Hexadecimal Notation: #
+RGB Functional Notation: rgb
+RGBA Functional Notation: rgba */
+
+/* css mein har color ki min value 0 hai and maximum 255 hai */
+
+/* r - 255
+g - 255
+b - 255 */
+
+/* chaiye aap 255 se jayada value dedo toh bhi vo 255 hi consider hogi and blue, green, red at full intensity shows white color and min black */
+
+/* rgb(255, 255, 255) -> for solid color */
+/* rgba(255, 255, 255, 1) -> for transparent color */
+/* min - 0 , max - 1 */
