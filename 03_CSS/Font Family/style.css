@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "gilroy";    
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  /* margin-top: 20px; */
+  font-family: PlayFair Display;
+  font-weight: 100;
+  text-transform: lowercase;
+  text-decoration: underline;
+  font-size: 2vw;
+}
+
+h2{
+  line-height: 40px;
+  text-align: left;
+  /* by default hmara text align left hi hota hai */
+}
+
+#box{
+  margin: 30px; /* bhar lgta h margin and andar padding */
+  padding: 30px 10px;
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  background-color: aqua;
+  /* top, right, bottom, left */
+}
+
+#border{
+  margin: 30px;
+  width: 300px;
+  height: 300px;
+  border: 3px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 50%;
+  background-color: rgb(10, 115, 85);
+}
