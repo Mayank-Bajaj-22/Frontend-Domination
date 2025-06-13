@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#text {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
+
+#text1 {
+    width: 20%;
+    height: 20%;
+    background-color: burlywood;
+}
+
+#text2 {
+    width: 20vw;
+    height: 20vh;
+    background-color: bisque;
+}
+
+/* % and vh and vw automatically set according to device size */
+
+/* % hamesha parent se value leta hai */
+/* vh and vw screen se value leta hai */
+
+/* em depend karta hai us element ke font size par, aur ye agar parent ko dete hai hai to children par bhi apply hota hai */
+
+/* matlab kuch aisa: 
+consider kariye ek element hai jiske pass 16 px font size hai to 1em ki value 16px hogi aur agar font size change kiya to uske response mein em ki value bhi badhegi */
+
+/* em -> not responsive */
+/* rem -> responsive */
+
+/* max and min -> act like a hook matlab na toh iske upar kuch chalega na hi isse kaam  */
