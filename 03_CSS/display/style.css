@@ -1,0 +1,35 @@
+/* block apne side se space hone ke baad me bhi side me kisi ko bhi aane nhi deta or ham isko width and height de sakte hai*/
+
+/* inline agar space hai toh aajao but we didi not increase its width and height */
+
+/* inline block ka simple matlab yeh hai ki agar block element ko inline block de toh vo allow karta hai apne side me au    r kisi ko aane de and we can increase width and height */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#inline {
+    display: inline;
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+
+    /* as we see we can not able to apply width and height in inline */
+}
+
+#inline-block {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+
+    /* as we see we can able to apply width and height in inline-block */
+}

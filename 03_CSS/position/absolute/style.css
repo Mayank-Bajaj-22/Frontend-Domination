@@ -1,0 +1,35 @@
+/* ham hamesha website ko top se dekhte hai */
+/* position absolute diya toh vo upar uthega     */
+/* if we all 3 cars position absolute then car1 comes at layer1 , car2 at layer2 and car3 at layer3 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#car1 {
+    width: 100px;
+    height: 140px;
+    background-color: rgb(141, 117, 85);
+}
+
+#car2 {
+    /* position: absolute; */
+    /* position absolute dene ke baad yeh car upar uth jaye tab hum isko kahi bhi kar sakte hai like top: 20% as as form left, right and bottom  */
+    width: 80px;
+    height: 120px;
+    background-color: rgb(71, 116, 3);
+}
+
+#car3 {
+    width: 105px;
+    height: 90px;
+    background-color: rgb(70, 41, 3);
+}
