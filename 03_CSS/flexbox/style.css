@@ -1,0 +1,41 @@
+/* y-axis -> cross
+x-axis -> main */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "gilroy";    
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+#box {
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#one {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+#two {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+
+#three {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}

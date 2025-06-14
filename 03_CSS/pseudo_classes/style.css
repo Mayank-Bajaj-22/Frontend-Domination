@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+h1:hover {
+    color: blueviolet;
+}
+
+button:active {
+    background-color: burlywood
+}
+
+input:focus {
+    background-color: bisque;
+}
+
+p:nth-child(3) {
+    color: brown;
+}
