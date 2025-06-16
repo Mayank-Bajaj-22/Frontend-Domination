@@ -12,7 +12,7 @@ html, body {
 #main {
     width: 100%;
     height: 100%;
-    background: #dadada;
+    background: #dedede;
     display: grid;
     grid-template-columns: 25% 25% 50%;
     grid-template-rows: 26% 55% 19%;
@@ -29,7 +29,6 @@ html, body {
     rotate: 45deg;
     background-color: #000;
 }
-
 
 #left-top-right {
     /* background-color: rgb(56, 19, 83); */
@@ -48,6 +47,10 @@ html, body {
     font-size: 17px;
     font-weight: 500;
     color: #333;
+}
+
+#left-top-right h6 {
+    display: none;
 }
 
 #left-center {
@@ -94,6 +97,7 @@ html, body {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    border-radius: 4px;
 }
 
 #arrow {
@@ -113,4 +117,85 @@ html, body {
 #arrow i {
     font-size: 40px;
     font-weight: 100;
+}
+
+@media (max-width:600px) {
+    #main {
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 60px 34% 8%;
+    }
+
+    #right {
+        grid-column: 1 / 4;
+        grid-row: 4;
+        padding: 20px;
+        padding-right: 20px;
+        object-fit: cover;
+    }
+
+    #left-top-left {
+        padding: 20px;
+    }
+
+    #square {
+        height: 15px;
+        width: 15px;
+    }
+
+    #left-top-right {
+        justify-self: right;
+        padding: 20px;
+        text-align: right;
+    }
+
+    #left-top-right h4 {
+        display: none;
+    }
+
+    #left-top-right h5 {
+        display: none;
+    }
+
+    #left-top-right h6 {
+    display: initial;
+    font-size: 20px;
+}
+
+    #left-center {
+        padding: 10px 20px;
+    }
+
+    #left-center h1{
+        font-size: 15vw;
+        line-height: 13vw;
+    }
+
+    #left-center h1:nth-child(2n) {
+        text-align: right;
+    }
+
+    #left-bottom {
+        grid-column: 1 / 3;
+        padding: 5px 20px;
+    }   
+
+    #left-bottom p {
+        width: 90%;
+        font-size: 13px;
+    }
+
+    #right video {
+        height: 45vh;
+    }
+
+    #arrow {
+        top: 53%;
+        left: 50%;
+        padding: 10px;
+        transform: translate(-50%, -50%) rotate(90deg);
+    }
+
+    #arrow i {
+        font-size: 30px;
+    }
 }
