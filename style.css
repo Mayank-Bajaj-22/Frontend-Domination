@@ -1,0 +1,166 @@
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "work sans";
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+#main{
+  height: 100%;
+  width: 100%;
+  /* background-color: aqua; */
+  display: flex;
+  align-items: flex-end;
+  /* justify-content: space-between; */
+  padding: 0px 90px;
+  padding-top: 100px;
+  gap: 120px;
+}
+
+#left{
+  height: 100%;
+  width: 45%;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+#left h1{
+  font-size: 110px;
+  font-weight: 400;
+  font-family: work sans;
+  line-height: 110px;
+}
+
+#bottom-left{
+  /* height: 40%; */
+  width: 100%;
+  /* background-color: yellow; */
+  padding-top: 120px;
+}
+
+#color{
+  /* background-color: blueviolet; */
+  width: fit-content;
+  padding: 8px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  border: 1px solid #000;
+}
+
+#color h5{
+  font-size: 20px;
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+#color1{
+  margin: 3px;
+  height: 20px;
+  width: 20px;
+  background-color: rgb(93, 70, 41);
+  border-radius: 50%;
+}
+
+#color2{
+  height: 20px;
+  width: 20px;
+  background-color: rgb(34, 32, 29);
+  border-radius: 50%;
+}
+
+#left h2{
+  margin-top: 50px;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+#left p{
+  font-size: 17px;
+  width: 65%;
+  font-weight: 600;
+  color: #444;
+  line-height: 25px;
+}
+
+#right{
+  /* padding-bottom: 0.5px; */
+  height: 91%;
+  width: 35%;
+  /* background-color: rgb(185, 51, 105); */
+  position: relative;
+}
+#right-top{
+  height: 50px;
+  width: 100%;
+  /* background-color: #444; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+#right-top h4{
+  font-family: work sans;
+  font-size: 25px;
+  font-weight: 500;
+}
+#right-top h5{
+  font-size: 14px;
+}
+
+#right-top h5 i{
+  /* color: gold; */
+  gap: 2px;
+}
+
+#right img{
+  /* margin-bottom: -0.5px;
+  overflow: hidden; */
+  height: 90.5%;
+  width: 100%;
+  object-fit: cover;
+}
+
+#black-gola{
+  height: 130px;
+  width: 130px;
+  background-color: rgb(26, 26, 26);
+  color: #fff;
+  border-radius: 50%;
+  right: -15%;
+  top: 24%;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#black-gola h5{
+  font-size: 21px;
+  font-weight: 400;
+}
+
+#rotated{
+  position: absolute;
+  left: -15%;
+  bottom: 2%;
+  /* background-color: aqua; */
+  rotate: -90deg;
+  transform-origin: 0 0;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+#star{
+  display: flex;
+  gap: 4px;
+}
