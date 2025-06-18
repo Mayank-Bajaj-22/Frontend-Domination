@@ -1,0 +1,157 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy',sans-serif;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+#main{
+  height: 100%;
+  width: 100%;
+  /* background-color: aqua; */
+}
+
+#nav{
+  height: 70px;
+  width: 100%;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+}
+
+#nav-part1{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 2px;
+}
+
+#gola{
+  height: 18px;
+  width: 18px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+#nav-part2{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 25px;
+}
+
+#nav-part2 h4{
+  font-size: 16px;
+  font-weight: 600
+}
+
+#nav-part2 h4 span{
+  color: grey;
+  margin-left: 15px;
+}
+
+#nav2{
+  height: 50px;
+  /* background-color: aqua; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  padding: 0 40px;
+}
+
+#nav2 h3{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#content{
+  height: calc(100% - 150px);
+  width: 100%;
+  /* background-color: blue; */
+}
+
+#text-content{
+  width: 100%;
+  height: 45%;
+  display: flex;
+  overflow-x: auto;
+}
+
+.elem {
+  flex-shrink: 0;
+  height: 100%;
+  width: 50%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: burlywood; */
+}
+
+#top {
+  position: absolute;
+  top: 18%;
+  left: 5%;
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+}
+
+#top h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#top h3 {
+  font-size: 18px;
+  font-weight: 400;
+  color: grey;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
+
+#bottom h1 {
+  font-size: 100px;
+  font-weight: 400;
+}
+
+
+#text-content::-webkit-scrollbar{
+  background-color: transparent;
+  height: 5px;
+}
+
+#text-content::-webkit-scrollbar-thumb{
+  background-color: orangered;
+}
+
+#image-content{
+  height: 60%;
+  width: 100%;
+  background-color: rebeccapurple;
+  display: flex;
+  overflow-x: auto;
+  /* overflow: hidden; */
+  position: relative;
+}
+
+#image-content img{
+  width: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  object-fit: center;
+  position: relative;
+  height: auto;
+}
+
+#image-content::-webkit-scrollbar{
+  display: none;
+}
