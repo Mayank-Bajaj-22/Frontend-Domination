@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#parent {
+    width: 500px;
+    height: 500px;
+    background-color: burlywood;
+}
+
+#child {
+    width: 70%;
+    height: 70%;
+    background-color: brown;
+}
+
+/* if we give width and height in px of parent and child div then by changing parent height and width of parent , it does not affect the child width and height but in % child set its width and height according to parent % */
+
+/* Example */
+/* x-courese :
+            $100000/- -> 20% discount ($20000/-)
+            $200000/- -> 20% discount ($40000/-)
+    Here we see % is same but its price change */

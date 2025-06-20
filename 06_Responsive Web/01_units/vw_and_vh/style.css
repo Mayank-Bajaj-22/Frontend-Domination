@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 10vw;
+}
+
+/* view port width : jis device pe ho utna % lelo like 30vw means 30% , basically according to device kaam kr rha h */
+/* view port height : jis device pe ho utna % lelo like 30vh means 30% , basically according to device kaam kr rha h */
+
+
+/* vmax and vmin */
+/* font-size : 20vmax --> width and height me se jo jayada h uske according le lega
+font-size : 20vmin --> width and height me se jo kaam h uske according le lega */

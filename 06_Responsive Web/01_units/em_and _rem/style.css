@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#parent {
+    background-color: rosybrown;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 0.5em;
+    /* means isko 50px * 0.5 milegi font size */
+}
+
+h2 {
+    font-size: 1em;
+    /* means isko 50px * 1 milegi font size */
+}
+
+h3 {
+    font-size: 1.5em;
+    /* means isko 50px * 1.5 milegi font size */
+}
+
+
+/* 1rem = 16px */

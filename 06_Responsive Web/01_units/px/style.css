@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#parent {
+    width: 500px;
+    height: 500px;
+    background-color: burlywood;
+}
+
+#child {
+    width: 250px;
+    height: 250px;
+    background-color: brown;
+}
+
+/* if we give width and height in px of parent and child div, then by changing parent height and width of parent , it does not affect the child width and height */
