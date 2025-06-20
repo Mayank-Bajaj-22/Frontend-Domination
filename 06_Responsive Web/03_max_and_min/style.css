@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#parent {
+    width: 100%;
+    min-height: 100%;
+    background-color: crimson;
+}
+
+#child1 {
+    width: 60%;
+    height: 120vh;
+    background-color: lightblue;
+}
+
+#child2 {
+    width: 60%;
+    height: 100vh;
+    background-color: lightgreen;
+}
+
+/* min-height means min 100% toh hai agar child ki height like 120vh hai toh parent bhi apni height 120vh set kar lena */

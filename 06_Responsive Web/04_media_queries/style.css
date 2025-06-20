@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";    
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#parent {
+    width: 500px;
+    height: 500px;
+    background-color: burlywood;
+}
+
+@media (max-width: 768px) {
+    #parent {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+
+    /* matlab max-width: 768px se kaam pe yeh kaam karega */
+}
+}
