@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy',sans-serif;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-size: 100px;
+  color: red;
+}
+
+h1::after{ /* Pseudo Element*/
+  content: "!";
+  color: brown;
+}
+
+h1::before{ /* Pseudo Element*/
+  content: "!";
+  color: brown;
+}
+
+/* yeh hamesha content ke before and after hi lagta hai */
+/* example - ek box ke anadar hello hai and apan before and after ka use karte hai jab vo content hello ke after and before aayega na ki box ke after and before */

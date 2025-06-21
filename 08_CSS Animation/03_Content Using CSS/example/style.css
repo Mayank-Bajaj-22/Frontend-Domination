@@ -1,0 +1,43 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 'Gilroy',sans-serif;
+}
+html, body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: black;
+  padding: 5vw;
+  /* margin: 5vw; */
+}
+button{
+  padding: 20px 40px;
+  background-color: transparent;
+  border: 2px solid cyan;
+  color: aqua;
+  font-weight: 600;
+  position: relative;
+  font-size: 20px;
+  /* mix-blend-mode: difference; */
+}
+button::after{
+  content: "";
+  height: 100%;
+  width: 0%;
+  background-color: cyan;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: all linear 0.5s;
+  z-index: -1;
+}
+button:hover::after{
+  width: 100%;
+}
+button:hover{
+  color: black;
+  transition: all linear 0.5s;
+}
