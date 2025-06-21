@@ -1,0 +1,47 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy',sans-serif;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+#box1{
+  height: 200px;
+  width: 200px;
+  background-color: crimson;
+  position: relative;
+  animation-name: box-anime;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards; 
+  /* forwards means jaha animation khatam hoga yeh uski properties le lega or vaha hi ruk jayega */
+}
+
+#box2{
+  height: 200px;
+  width: 200px;
+  background-color: lightseagreen;
+  position: relative;
+  animation-name: box-anime;
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: 2;
+  /* iteration count matlab kitni baar chala */
+  animation-direction: reverse;
+  /* reverse means animation run from to - from */
+  animation-timing-function: ease-in;
+}
+
+@keyframes box-anime {
+  from{
+    left: 0;
+  }
+  to{
+    left: 80%;
+  }
+}
