@@ -78,3 +78,43 @@
   - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/05_CSS%20Project/03_Trendline/)
 
 <hr>
+
+## 06_Responsive Web
+
+- [Responsive Web Readme](https://github.com/Mayank-Bajaj-22/Frontend-Domination/blob/main/06_Responsive%20Web/readme.md)
+- [Responsive Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/06_Responsive%20Web)
+  - units
+  - flexbox
+  - max and min
+  - media queries
+
+ <hr>
+
+ ## 07_Making Project Responsive
+
+ ### Project 1 (Responsive) - Shop Jacket
+   - [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/07_Making%20Project%20Responsive/01_Shop%20Jacket)
+   - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/07_Making%20Project%20Responsive/01_Shop%20Jacket/)
+
+### Project 2 (Responsive) - Cotton Weave
+  - [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/07_Making%20Project%20Responsive/02_Cotton%20Weave)
+  - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/07_Making%20Project%20Responsive/02_Cotton%20Weave/)
+
+### Project 3 (Responsive) - Trendline
+
+  - [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/07_Making%20Project%20Responsive/03_Trendline)
+  - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/07_Making%20Project%20Responsive/03_Trendline/)
+
+ <hr>
+
+ ## 08_CSS Animation
+ - [CSS Animation Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/08_CSS%20Animation)
+
+   - Basic - How Animation works
+   - Advance
+   - Content using CSS
+     - example
+       - [box hover effect](https://mayank-bajaj-22.github.io/Frontend-Domination/08_CSS%20Animation/03_Content%20Using%20CSS/example/)
+       - [circle hover effect](https://mayank-bajaj-22.github.io/Frontend-Domination/08_CSS%20Animation/03_Content%20Using%20CSS/example/hover_effect/)
+
+<hr>
