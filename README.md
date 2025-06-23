@@ -29,3 +29,52 @@
 - [HTML5 Semantics Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/02_HTML5%20Semantic)
 
 - [HTML Semantics Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/02_HTML5%20Semantic/)
+
+<hr>
+
+## 03_CSS - Styling things up
+- [CSS Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/03_CSS)
+- [CSS Readme](https://github.com/Mayank-Bajaj-22/Frontend-Domination/blob/main/03_CSS/readme.md)
+  
+  - colors
+  - div
+  - font family
+  - background
+  - display
+  - flexbox
+  - position
+  - pseudo_classes
+  - pseudo_elements
+  - units
+ 
+ <hr>
+
+## 04_CSS Grid Layout
+- [CSS Grid Layout Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/04_CSS%20Grid%20Layout)
+
+### Example where CSS Grid Layout is used:
+- [Code Part](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/04_CSS%20Grid%20Layout/example)
+- [Code Part Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/04_CSS%20Grid%20Layout/example/)
+      
+### CSS Grid Layout Project
+- [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/04_CSS%20Grid%20Layout/project)
+- [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/04_CSS%20Grid%20Layout/project/)
+
+<hr>
+
+## 05_CSS Project
+
+### Project 1 - Shop Jacket
+  - Responsiveness of this is ahead!!
+  - [Project Code](https://mayank-bajaj-22.github.io/Frontend-Domination/04_CSS%20Grid%20Layout/project/)
+  - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/05_CSS%20Project/01_Shop%20Jacket/)
+
+### Project 2 - Cotton Weave
+  - [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/05_CSS%20Project/02_Cotton%20Weave)
+  - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/05_CSS%20Project/02_Cotton%20Weave/)
+
+### Project 3 - Trendline
+  - [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/05_CSS%20Project/03_Trendline)
+  - [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/05_CSS%20Project/03_Trendline/)
+
+<hr>
