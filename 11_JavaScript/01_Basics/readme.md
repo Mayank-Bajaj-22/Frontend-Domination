@@ -1,9 +1,9 @@
 ## js the language
-// managed by ecmascript
-// naye features, puraane htana, kharab features sahi krna and overall development of js
-// es5 (var) and es6 (let)
-// js the language = code likkhna seekhna, main features
-// js the dom = code linkhar cheejein banana seekhna
+    - managed by ecmascript
+    - naye features, puraane htana, kharab features sahi krna and overall development of js
+    - es5 (var) and es6 (let)
+    - js the language = code likkhna seekhna, main features
+    - js the dom = code linkhar cheejein banana seekhna
 
 ### basics :
     - file connect karenge and load karenge script ko, basics of code execution, grammer and understanding of errors
