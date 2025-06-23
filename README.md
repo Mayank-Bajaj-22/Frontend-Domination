@@ -112,9 +112,35 @@
 
    - Basic - How Animation works
    - Advance
+  
+   - 
    - Content using CSS
      - example
        - [box hover effect](https://mayank-bajaj-22.github.io/Frontend-Domination/08_CSS%20Animation/03_Content%20Using%20CSS/example/)
        - [circle hover effect](https://mayank-bajaj-22.github.io/Frontend-Domination/08_CSS%20Animation/03_Content%20Using%20CSS/example/hover_effect/)
+
+<hr>
+
+## 09_CSS Project 1 - Premier Design
+- [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/09_CSS%20Project%201)
+- [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/09_CSS%20Project%201/)
+
+### 🎨 Premier Website – CSS Design Project
+This project is a frontend UI design of a premier-style website built using only HTML and CSS. It focuses on clean layout structure, modern styling, responsive design, and smooth user experience without any JavaScript. Ideal for showcasing landing pages or branding concepts.
+
+<hr>
+
+## 10_CSS Bonus Project - Dribble Website
+- [Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/10_CSS%20Bonus%20Project)
+- [Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/10_CSS%20Bonus%20Project/)
+
+### 🎨 Dribbble Website Design – HTML, CSS & Animations
+
+- Built using: HTML and CSS only (no JavaScript)
+- Inspired by: Dribbble's clean and creative UI
+- Focus: Layout design, typography, spacing, and visual hierarchy
+- Includes: Smooth CSS animations for interactive feel
+- Responsive: Optimized for different screen sizes
+- Ideal for: Practicing frontend design and animation skills
 
 <hr>
