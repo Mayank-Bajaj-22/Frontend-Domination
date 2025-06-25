@@ -60,6 +60,7 @@
 
 - foreeach ek normal loop nahi hai for and while li tarah jo numbers pe ya start end par chalta hai, foreach loop sirf array pe chalta hai
 
+
 ### functions - es5 and es6
     - es5
         - function statements
@@ -87,15 +88,71 @@
 
     Extra we should know - parameters and arguements
 
+
 ### return
     - return ka matlab hua, jaha par bhi return lagega uske aage jo bhi likhoge wo jaayega jaha par function call hua tha, return functions ke andar lagta hai
     - aisa function jo kuch return nahi karta wo bhi undefined return krta hai
 
 
-undefined, not defined, null
-arrays
-objects  * till here all should know *
+### undefined, not defined, null
+    - undefined is a value
+        - ye value tad di jaati hai jab variable ko koi value naa mili ho,
+        iska matlab hai, ye ek garbage value ki tarah treat ki jaati hai, aap issey default value bhi kah skte ho
+        var a;
+
+    - not defined is an error
+        - koi particular element/identity ko use karna without it's declaration gives an error, and that error is not defined error
+
+    - null is also a value
+        - this is a value which resolve like, not found
+        - null is recived when something is not found
+
+
+### arrays
+    - what
+        - array matlab jab bhi aapko ek ya ek se jaada value ek saath rakni ho
+
+    - how
+        - var arr = [1, 2, "3", function(){}, [], 4];
+
+    - why
+        - a lot of times the data is in the shape of more than one member, to contail all data altogether, we can save it in array
+
+### loop with array
+    - add all members of array
+    - count all members 
+
+
+### objects  * till here all should know *
+    - what
+        - object ek tareeka hai jisse ki hum ek identity ki details ko ek saath rakh skte hai
+
+    - how
+        - var mayank = {
+            company: "canon",
+            price: 1200,
+            for: "camera",
+            isWorking: true,
+        }
+        console.log(mayank.for);
+
+    - when and why
+        - jab ek object ki bohot saari detail save karni ho
+
+
+### synchronous (Main Stack) asynchronous js (Side Stack)
+    - synchronous code mein code humesha line by line chalta hai
+
+    - asynchronous code line by line nahi chalta, saara async code ek saath shuru kar diya jaata hai and jo pahle complete hojaaye uska answer dediya jaata hai
+
+
 prototypal inheritance
 asynchronous
 es6 climax
 questions
+miscellaneous - switch case and ternary do-while forin forof
+
+interview prep
+this call apply bind
+prototypes
+prototypal inheritance
