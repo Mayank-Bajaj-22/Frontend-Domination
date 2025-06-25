@@ -144,3 +144,34 @@ This project is a frontend UI design of a premier-style website built using only
 - Ideal for: Practicing frontend design and animation skills
 
 <hr>
+
+## 11_JavaScript
+- [JavaScript Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/11_JavaScript)
+  
+  - [Basics](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/11_JavaScript/01_Basics)
+    - js the language
+    - js the dom
+    - in-built features
+    - browser enviornment(window)
+    - variable and constant
+    - compilers and interpreters
+    - primitive and reference data types
+
+  - [Conditionals](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/11_JavaScript/02_Conditionals)
+    - if , else if , else
+    - loops
+      - for, while, do-while, foreach, forin, forof
+
+  - [Functions](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/11_JavaScript/03_Functions)
+    - es5 functions
+    - es6 functions
+    - return
+
+  - [Arrays and Objects](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/11_JavaScript/04_Arrays_and_Objects)
+    - undefined, not defined, null
+    - arrays
+    - objects
+    - synchronous
+    - asynchronous
+ 
+<hr>
