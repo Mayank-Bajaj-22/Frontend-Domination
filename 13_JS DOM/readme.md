@@ -1,4 +1,4 @@
-DOM
+### DOM
 DOM Manipulation
 
 Accessing Elements:
@@ -22,6 +22,7 @@ Event Handling:
 Even Object
 
 
+### DOM explanation
 
   DOM - Document Object  Model
     - Jo bhi hum website par dekhte hai wo sab kuch body tag ke andar banta hai, ab jo body mein banta hai wahi humein website par dikhata hai, DOM actually hota hai thoda asan shabdo mein HTML tag aur uska pura control js mein
@@ -36,5 +37,7 @@ Even Object
       selection           change                 event
 
 
-Modyfying Elemnts
-<!-- kisi ko bhi change karne se pahle palha step hota hai usko select krna -->
+  Modyfying Elemnts
+    - kisi ko bhi change karne se pahle palha step hota hai usko select krna
+
+    - jab bhi app kisi element par kisi bhi prakhaar ka koi action krte ho to waha par event by default automatically raise hota hai ab agar aapne koi event listener nahi banaya hai to wo event ignore krdiya jaata hai par agar aapne listener banaya hai us event par to wo event ignore nahi kiya jaayega balki uska listener chalega
