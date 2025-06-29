@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+#main{
+    width: 100%;
+    height: 2000px;
+    background-color: burlywood;
+}
+
+#scroller {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5px;
+  width: 0%;
+  background-color: #00b894;
+  z-index: 9999;
+  transition: width 0.2s ease;
+}
