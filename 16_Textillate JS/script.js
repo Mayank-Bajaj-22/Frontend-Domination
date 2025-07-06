@@ -14,4 +14,3 @@ gsap.from("h1",{
 //     delay:0.5,
 //     duration:1.5,
 // })
-

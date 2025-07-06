@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#page1{
+    height: 100vh;
+    width: 100%;
+    background-color: #E3E3C4;
+}
+#page2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #556043;
+    padding: 5vw;
+}
+#page3{
+    height: 100vh;
+    width: 100%;
+    background-color: #E3E3C4;
+}
+
+#page2 h1{
+    color: #434B34;
+    font-size: 4.5vw;
+    text-align: center;
+    font-weight: 400;
+    /* font-family: 'gilroy',sans-serif; */
+    line-height: 4.8vw;
+}
