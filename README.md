@@ -175,3 +175,29 @@ This project is a frontend UI design of a premier-style website built using only
     - asynchronous
  
 <hr>
+
+## 12_Advance JavaScript
+- [Advance JavaScript](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/12_Advance%20JavaScript)
+
+<hr>
+
+## 13_JS DOM
+  ### 01_DOM
+  - [01_DOM Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/13_JS%20DOM/01_DOM)
+  - [01_DOM Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/13_JS%20DOM/01_DOM/)
+
+  ### 02_DOM
+  - [02_DOM Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/13_JS%20DOM/02_DOM)
+  - [02_DOM Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/13_JS%20DOM/02_DOM/)
+
+<hr>
+
+## 14_JS Tasks
+  - ### I’ve practiced 10 JavaScript tasks and documented them. You can check the links below to review them.
+  - [Readme of 10 JS Tasks Question](https://github.com/Mayank-Bajaj-22/Frontend-Domination/blob/main/14_JS%20Tasks/readme.md)
+
+  ### Task 1
+  - Create an HTML page with a button. When the button is clicked, change the text of a paragraph element.
+    
+  - [Task 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/01_Task)
+  - [Task 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/01_Task/)
