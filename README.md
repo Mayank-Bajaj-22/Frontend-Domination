@@ -266,3 +266,28 @@ This project is a frontend UI design of a premier-style website built using only
 <hr>
 
 ## 15_GSAP
+  - GSAP – Animation library
+  - GSAP ScrollTrigger – For scroll-based animations
+  - Locomotive Scroll – Smooth scrolling + parallax
+  - Locomotive Scroll Trigger
+
+  ### 01_GSAP Basics - Introduction to GSAP – tween, timeline, from/to, delay, easing, etc.
+
+  - [GSAP Basics Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/01_GSAP%20Basics)
+  - [GSAP Basics Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/01_GSAP%20Basics/)
+
+  ### 02_GSAP Project - A mini project using core GSAP animations.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/02_GSAP%20Project)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/02_GSAP%20Project/)
+
+  ### 03_GSAP Scroll Trigger - Introduction to ScrollTrigger – pinning, triggering animations on scroll.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/03_GSAP%20Scroll%20Trigger)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/03_GSAP%20Scroll%20Trigger/)
+
+  ### 04_GSAP Scroll Trigger - ScrollTrigger example with entrance animations.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/04_Scroll%20Trigger%20Effect%201)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/04_Scroll%20Trigger%20Effect%201/)
+
