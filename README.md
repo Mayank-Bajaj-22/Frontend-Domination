@@ -201,3 +201,31 @@ This project is a frontend UI design of a premier-style website built using only
     
   - [Task 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/01_Task)
   - [Task 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/01_Task/)
+
+
+    ### Task 2
+  - Create a page with two images and a button. When the button is clicked, swap the source attribute of the images.
+    
+  - [Task 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/02_Task)
+  - [Task 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/02_Task/)
+
+    ### Task 3
+  - Create a form with input fields and a submit button. Use JavaScript to validate the form and display an error message if the input is invalid.
+    
+  - [M 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/03_Task/M_1)
+  - [M 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/03_Task/M_1/)
+
+  - [M 2 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/03_Task/M_2)
+  - [M 2 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/03_Task/M_2/)
+
+    ### Task 4
+  - Create an unordered list. Allow users to add and remove list items dynamically using buttons.
+    
+  - [Task 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/04_Task)
+  - [Task 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/04_Task/)
+
+    ### Task 5
+  - Create an unordered list. Allow users to add and remove list items dynamically using buttons.
+    
+  - [Task 1 Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/14_JS%20Tasks/05_Task)
+  - [Task 1 Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/14_JS%20Tasks/05_Task/)
