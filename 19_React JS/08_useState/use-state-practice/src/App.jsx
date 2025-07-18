@@ -1,6 +1,5 @@
 // import React, { useState } from 'react'
 
-
 // function App() {
 //   //! const [score,setScore] = useState(10);
 //   //! setScore(200);
@@ -17,9 +16,6 @@
 
 // export default App;
 
-
-
-
 // import React, { useState } from 'react'
 
 // function App() {
@@ -35,8 +31,6 @@
 // }
 
 // export default App;
-
-
 
 import React, { useState } from 'react'
 
