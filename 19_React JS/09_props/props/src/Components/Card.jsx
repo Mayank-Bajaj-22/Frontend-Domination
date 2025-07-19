@@ -35,7 +35,7 @@
 
 import React from 'react'
 
-function Card({image, name, profession}) {
+function Card({image, name, profession, dummy, friends, index}) {
   return (
     <div className='w-60 bg-zinc-100 rounded-md overflow-hidden'>
         <div className='w-full h-42 bg-sky-200'>
@@ -44,10 +44,13 @@ function Card({image, name, profession}) {
         <div className='w-full p-3'>
             <h3 className='font-semibold'>{name}</h3>
             <h5 className='mb-1'>{profession}</h5>
-            <button onClick={()=>alert('Added as a friend')} className='px-3 py-1 text-xs bg-blue-500  font-semibold rounded-md'>Add Friend</button>
+            <button onClick={()=>dummy(index)} className='px-3 py-1 text-xs bg-blue-500  font-semibold rounded-md'>{friends === true ? "Friends" : "Add Friend"}</button>
         </div>
-    </div>
+    </div> 
   )
 }
 
 export default Card
+
+
+//! props drilling event Handling
