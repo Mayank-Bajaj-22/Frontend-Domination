@@ -26,7 +26,7 @@ const Nav = () => {
                 e.isActive ? "font-bold" : "",
               ].join(" ")}
             >
-              Home
+              About
             </span>
           );
         }}
