@@ -291,3 +291,24 @@ This project is a frontend UI design of a premier-style website built using only
   - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/04_Scroll%20Trigger%20Effect%201)
   - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/04_Scroll%20Trigger%20Effect%201/)
 
+  ### 05_Apply Locomotive - Applying Locomtive and it provide smooth scrolling.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/05_Applying%20Locomotive)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/05_Applying%20Locomotive/)
+
+  ### 06_Locomotive Use - Provide smooth scrolling.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/06_Locomotive%20Use)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/06_Locomotive%20Use/)
+
+  ### 07_Locomotive and scrollTrigger - Using Codepen code for applyig locomotive and scrollTrigger together for triggering animation on scrolling.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/07_Locomotive%20and%20scrollTrigger)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/07_Locomotive%20and%20scrollTrigger/)
+
+  ### 08_GSAP Bonus Effect - Text color filling on scrolling.
+
+  - [GSAP Project Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/15_GSAP/08_GSAP%20Bonus%20Effect)
+  - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/08_GSAP%20Bonus%20Effect/)
+
+<hr />
