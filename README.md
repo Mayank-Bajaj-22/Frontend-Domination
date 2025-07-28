@@ -312,3 +312,27 @@ This project is a frontend UI design of a premier-style website built using only
   - [GSAP Project Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/15_GSAP/08_GSAP%20Bonus%20Effect/)
 
 <hr />
+
+## 16_Textillate JS
+- A simple scroll-triggered text animation that fills text with color using GSAP and ScrollTrigger.
+- [Textillate JS Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/16_Textillate%20JS)
+- [Live Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/16_Textillate%20JS/)
+
+<hr />
+
+## 17_JS Final Project - Obys Agency
+- A visually dynamic portfolio website inspired by Obys.agency, built with modern frontend tools like GSAP, Locomotive Scroll, Shery.js, and custom CSS to showcase smooth animations and interactive UI.
+
+- [Code](https://github.com/Mayank-Bajaj-22/Frontend-Domination/tree/main/17_JS%20Final%20P%20-%20Obys)
+- [Live Preview](https://mayank-bajaj-22.github.io/Frontend-Domination/17_JS%20Final%20P%20-%20Obys/)
+
+### Features
+  - 🔄 Smooth scrolling with Locomotive Scroll
+  - 🌀 Scroll-based animations using GSAP + ScrollTrigger
+  - 🎨 Magnetic cursor & hover effects via Shery.js
+  - ✨ Gooey image distortion on hover
+  - 🎬 Interactive video play/pause cursor
+  - 🧭 Animated preloader with counter
+  - ⚡ Fully responsive (desktop & mobile)
+
+<hr />
